@@ -10,7 +10,7 @@ brew isntall qemu
 brew install nasm
 ```
 
-## References
+## References/Credits
 
 * [tatsumack/30nichideosjisaku](https://github.com/tatsumack/30nichideosjisaku)
 * [noanoa07/myHariboteOS](https://github.com/noanoa07/myHariboteOS)
