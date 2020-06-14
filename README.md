@@ -7,6 +7,8 @@
 
 ```
 brew isntall qemu
+brew install mtools
+brew install i386-elf-gcc
 brew install nasm
 ```
 
